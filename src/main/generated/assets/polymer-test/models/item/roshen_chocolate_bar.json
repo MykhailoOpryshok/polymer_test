@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "polymer-test:item/roshen_chocolate_bar"
+  }
+}
